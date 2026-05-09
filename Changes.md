@@ -84,4 +84,4 @@ This reduces ambiguity, shortens time-to-understanding, and makes the Orders Das
 
 ## Deployment
 
-- Deployment URL: pending
+- Deployment URL: https://giteshchaudhari681-art.github.io/orderly-dashboard-ux-states/
